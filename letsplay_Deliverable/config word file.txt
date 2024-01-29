@@ -1,7 +1,6 @@
-Stile Titoli = Cambria(Titoli)
-Stile Corpo = Calibri(Corpo)
+Stile = Times New Roman
 -----------------------------------------
-Dim titolo (es SRS) : 28
-Dim sezione (es introduction) : 24
+Dim titolo (es SRS) : 24
+Dim sezione (es introduction) : 22
 Dim sottosezione (es aim of the document) : 20
 Dim corpo : 16
