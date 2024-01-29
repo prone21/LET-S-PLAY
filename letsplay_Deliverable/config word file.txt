@@ -1,6 +1,6 @@
 Stile = Times New Roman
 -----------------------------------------
-Dim titolo (es SRS) : 24
+Dim titolo (es SRS) : 26
 Dim sezione (es introduction) : 22
-Dim sottosezione (es aim of the document) : 20
+Dim sottosezione (es aim of the document) : 18
 Dim corpo : 16
